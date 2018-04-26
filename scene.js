@@ -1,3 +1,13 @@
+function setup() {
+  createCanvas(400, 400);
+}
+
+function draw() {
+  background(220);
+	ellipse(40,40,40,40);
+	
+}
+
 createCanvas(400,400);   
 size(400,400);
 background(8, 1, 1);
