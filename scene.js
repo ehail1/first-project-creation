@@ -1,4 +1,5 @@
-   background(8, 1, 1);
+createCanvas(400,400);   
+background(8, 1, 1);
     image(getImage("cute/WaterBlock"), -5, 89, 420, 201);
     image(getImage("cute/DirtBlock"), 130, 237, 150, 177);//Dirtblock5
     image(getImage("cute/DirtBlock"), 125, -58, 145, 208);//Dirtblock2
