@@ -6,10 +6,10 @@ function draw() {
   background(220);
 	ellipse(40,40,40,40);
 	
-}
 
-createCanvas(400,400);   
-size(400,400);
+
+  
+
 background(8, 1, 1);
     image(getImage("cute/WaterBlock"), -5, 89, 420, 201);
     image(getImage("cute/DirtBlock"), 130, 237, 150, 177);//Dirtblock5
@@ -36,3 +36,4 @@ text("can i joine please",105,291);
 fill(4, 0, 255);
 textSize(36);
 text("Swming up the River",50,50);
+}
